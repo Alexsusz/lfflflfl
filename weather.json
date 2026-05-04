@@ -1,0 +1,14 @@
+[
+    {
+        "date": "12.12.2021",
+        "temperature": 40.0,
+        "description": "123",
+        "precipitation": true
+    },
+    {
+        "date": "12.12.2021",
+        "temperature": 123.0,
+        "description": "40",
+        "precipitation": false
+    }
+]
